@@ -1,4 +1,6 @@
-Web-app is built using ReactJS with CSS for front-end , API using Node JS and Postgres SQL for the back-end. This is just a demo-project, and we've used Approximate values for all the distances. </p>
+Web-app is built using ReactJS with CSS for front-end , API using Node JS and Postgres SQL for the back-end. This is just a demo-project, and we've used Approximate values for all the distances.
+
+API link: (https://github.com/Sandy7596/Digirail-RailAPI)
 
 
 ## Available Scripts
